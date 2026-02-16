@@ -24,7 +24,3 @@ Terdapat dua jenis developer account:
 Pemilihan akun penting karena berkaitan dengan tanggung jawab terhadap data pengguna.
 
 ---
-
-## 🚀 Progress
-- [📖 Section 1: Introduction](./Introduction/README.md) ✅
-- [🔐 Section 2: Developer Account](./Developer-Accounts/README.md) ✅
