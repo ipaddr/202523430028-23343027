@@ -14,7 +14,7 @@ Pengembangan dilakukan secara bertahap dari Week 2 sampai Week 6 sesuai dengan m
 
 ---
 
-## ✅ Week 2
+## (On Progress) Week 2
 
 ⌨️ (00:00:00) Introduction  
 ⌨️ (00:02:57) Developer Accounts  
@@ -34,7 +34,7 @@ Pengembangan dilakukan secara bertahap dari Week 2 sampai Week 6 sesuai dengan m
 
 ---
 
-## ✅ Week 3
+##  Week 3
 
 ⌨️ (10:19:47) Setting up Git and GitHub  
 ⌨️ (11:10:34) Email Verification View  
@@ -52,7 +52,7 @@ Pengembangan dilakukan secara bertahap dari Week 2 sampai Week 6 sesuai dengan m
 
 ---
 
-## ✅ Week 4
+##  Week 4
 
 ⌨️ (19:30:57) Working with Streams in Notes Service  
 ⌨️ (20:04:32) Preparing Notes View to Read All Notes  
@@ -68,7 +68,7 @@ Pengembangan dilakukan secara bertahap dari Week 2 sampai Week 6 sesuai dengan m
 
 ---
 
-## ✅ Week 5
+##  Week 5
 
 ⌨️ (25:37:43) Introduction to Bloc  
 ⌨️ (26:24:31) Converting our Auth Process to Bloc  
@@ -84,7 +84,7 @@ Pengembangan dilakukan secara bertahap dari Week 2 sampai Week 6 sesuai dengan m
 
 ---
 
-## ✅ Week 6
+##  Week 6
 
 ⌨️ (33:50:07) Releasing our Android App  
 ⌨️ (34:55:19) Localization in Flutter  
