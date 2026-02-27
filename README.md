@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Project ini merupakan tugas dari mata kuliah **Mobile Programming Lanjut** yang diampu oleh **Iip Permana, S.T., M.T**.
+Project ini merupakan tugas dari mata kuliah **Mobile Programming Lanjut** yang diampu oleh **Bapak Iip Permana, S.T., M.T**.
 
 Aplikasi ini dikembangkan menggunakan Flutter dan mencakup proses lengkap pengembangan aplikasi mobile, mulai dari setup environment, implementasi authentication, manajemen state menggunakan Bloc, integrasi Firebase, hingga proses deployment ke iOS dan Android.
 
